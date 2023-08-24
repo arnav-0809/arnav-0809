@@ -13,8 +13,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav-0809&show_icons=true&theme=dark&title_color=fec700&text_color=ffffff&cache_seconds=1800&locale=en" alt="arnav-0809" /></p>
-
 <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav-0809&show_icons=true&theme=dark&locale=en&layout=compact" alt="arnav-0809" />
 </p>
